@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>個人簡介</title>
+    <style>
+        h1 { color: blue; }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>吳姿函</h1>
+        <p>一位多媒體設計系學生</p>
+        <p>喜歡探索前端科技跟數位創作</p>
+        <hr>
+        <p><a href="mailto:example@mail.com">聯絡我</a></p>
+    </div>
+</body>
+</html>
